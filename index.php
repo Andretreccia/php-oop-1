@@ -28,7 +28,7 @@
     }
 
     $movie_1 = new Movie('Le ali della libertà', 'Drama', 'Frank Darabont', 142);
-    $movie_2 = new Movie("Matrix", 'action', 'Bill Pope', 136);
+    $movie_2 = new Movie("Matrix", 'action', 'Andy e Larry Wachowski', 136);
 
     var_dump($movie_1);
     var_dump($movie_2);
